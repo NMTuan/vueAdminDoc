@@ -6,7 +6,7 @@ hero:
     name: "vueAdmin"
     text: "admin管理平台模板"
     tagline: '零前端开发的数据管理解决方案！'
-    image: /assets/favicon.svg
+    image: /favicon.svg
     actions:
         - theme: brand
           text: 开始使用
