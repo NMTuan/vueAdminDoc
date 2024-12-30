@@ -2,7 +2,7 @@
  * @Author: nmtuan nmtuan@qq.com
  * @Date: 2024-12-17 20:19:22
  * @LastEditors: nmtuan nmtuan@qq.com
- * @LastEditTime: 2024-12-30 20:07:44
+ * @LastEditTime: 2024-12-30 21:05:01
  * @FilePath: \vueAdminDoc\.vitepress\config.mjs
  * @Description: 
  * 
@@ -72,4 +72,5 @@ export default defineConfig({
     vite: {
         plugins: [UnoCSS()]
     },
+    ignoreDeadLinks: true,
 });
