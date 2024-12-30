@@ -6,7 +6,7 @@ hero:
     name: "vueAdmin"
     text: "Dashboard Template"
     tagline: '"Zero" front-end developments！'
-    image: /assets/favicon.svg
+    image: /favicon.svg
     actions:
         - theme: brand
           text: Get Started
