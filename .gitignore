@@ -1,0 +1,17 @@
+# vitepress build output
+.vitepress/dist
+
+# vitepress cache
+.vitepress/cache
+
+# node_modules
+node_modules
+
+# yarn error logs
+yarn-error.log
+
+# local dev db
+db.json
+
+# parcel-bundler cache (in case you run 'npm start' or 'yarn start')
+.cache

@@ -1,0 +1,23 @@
+/* var.css */
+:root {
+    /* --vp-c-brand-1: #18794e;
+  --vp-c-brand-2: #299764;
+  --vp-c-brand-3: #30a46c; */
+    --vp-c-brand-1: #409eff;
+    --vp-c-brand-2: #2563eb;
+    --vp-c-brand-3: #409eff;
+}
+
+.dark {
+    --vp-c-brand-1: #409eff;
+    --vp-c-brand-2: #3b82f6;
+    --vp-c-brand-3: #2563eb;
+}
+
+.medium-zoom-overlay {
+    z-index: 31;
+}
+
+.medium-zoom-image.medium-zoom-image--opened {
+    z-index: 32 !important;
+}
